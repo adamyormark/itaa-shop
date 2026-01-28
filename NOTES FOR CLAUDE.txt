@@ -1,0 +1,6 @@
+NOTES FOR CLAUDE
+==========================
+
+After making changes for the user, ask them if they would like to "push changes" to deploy to the live site, once you believe the site is ready. The user may forget to push the changes otherwise.
+
+==========================
