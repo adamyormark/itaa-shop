@@ -1,0 +1,21 @@
+ITAA STORE - PRODUCT LIST
+==========================
+
+PRODUCT 1
+---------
+Name: 
+FocusFlag - Grey/Red
+Stripe link:
+https://buy.stripe.com/eVq8wP0yTccY27FbORcfK00
+
+---
+
+(Copy and paste the block above for more products)
+
+==========================
+STORE SETTINGS
+==========================
+
+Store name: ITAA Shop
+Tagline: Not officially affiliated with Internet and Technology Addicts Anonymous. 50% of proceeds go toward ITAA
+Contact me: Contact me, Adam, at the In-Person North Brooklyn ITAA meeting.
